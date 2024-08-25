@@ -1,0 +1,8 @@
+-- Ejecutar el primer script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/emillymods11/AutoC/main/BloxFruit2"))()
+
+-- Esperar 2 segundos
+wait(2)
+
+-- Ejecutar el segundo script
+loadstring(game:HttpGet("https://raw.githubusercontent.com/emillymods11/Auto-Chests/main/bloxfruits"))()
